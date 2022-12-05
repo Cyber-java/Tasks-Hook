@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../fast-company"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "VSCode"
+  }
+}
